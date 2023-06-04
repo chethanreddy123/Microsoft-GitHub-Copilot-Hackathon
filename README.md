@@ -46,6 +46,10 @@ Please note that a valid OpenWeatherMap API key is required to retrieve weather 
 
 Feel free to explore and modify the code to suit your needs and preferences.
 
+### Sample Output:
+![image](https://github.com/chethanreddy123/Microsoft-GitHub-Copilot-Hackathon/assets/69640722/b8853ec5-4776-4e7d-b974-9b26a953f446)
+
+
 **Disclaimer: The accuracy of weather data depends on the OpenWeatherMap API and its availability.**
 
 ## Conclusion
